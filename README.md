@@ -1,4 +1,4 @@
-Hi there, I'm Alex 👋
+### Hi there, I'm Alex 👋
 
 - 🔭 I’m currently working on ...Cyber Security Research
 - 🌱 I’m currently learning ...Python
@@ -7,5 +7,5 @@ Hi there, I'm Alex 👋
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ...
+
 
