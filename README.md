@@ -1,4 +1,4 @@
-### Here is what I'm working on : 👋
+Hi there, I'm Alex 👋
 
 - 🔭 I’m currently working on ...Cyber Security Research
 - 🌱 I’m currently learning ...Python
